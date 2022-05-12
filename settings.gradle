@@ -1,0 +1,3 @@
+rootProject.name = "facedetectin"
+include ':app'
+include ':openCVLibrary3416'
